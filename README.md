@@ -63,8 +63,6 @@ How to implement JWT authentication in FastAPI
 * Community insights
 * Clear implementation recommendation
 
-*(Add screenshot here for best impact)*
-
 ---
 
 ## ⚡ Why GitClaw?
